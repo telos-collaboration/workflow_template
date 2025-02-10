@@ -1,0 +1,22 @@
+text.usetex : False
+font.size : 9
+font.family : sans
+font.sans-serif : Futura
+
+lines.linewidth : 0.5
+lines.markersize : 3
+lines.markeredgewidth : 0.5
+
+errorbar.capsize : 1.5
+markers.fillstyle : none
+
+figure.facecolor : (1.0, 1.0, 1.0, 0.0)
+figure.edgecolor : (1.0, 1.0, 1.0, 0.0)
+figure.frameon: False
+
+axes.linewidth : 0.5
+axes.facecolor : white
+
+legend.fontsize : small
+legend.handletextpad : 0.3
+legend.columnspacing : 0.5

@@ -1,0 +1,27 @@
+default_language_version:
+    python: python3.12
+repos:
+- repo: https://github.com/astral-sh/ruff-pre-commit
+  rev: v0.5.1
+  hooks:
+    - id: ruff
+      # Lint rules suggested by ruff docs, just for starters:
+      args: [--fix]
+    - id: ruff-format
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v4.6.0
+  hooks:
+    - id: check-yaml
+    - id: end-of-file-fixer
+    - id: trailing-whitespace
+    - id: check-toml
+    - id: mixed-line-ending
+- repo: https://github.com/jumanjihouse/pre-commit-hooks
+  rev: 3.0.0
+  hooks:
+    - id: markdownlint
+      files: \.(md|mdown|markdown)$
+- repo: https://github.com/snakemake/snakefmt
+  rev: v0.10.2
+  hooks:
+    - id: snakefmt

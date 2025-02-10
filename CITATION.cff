@@ -1,0 +1,72 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  TODO
+message: >-
+  Please cite if you reuse portions of this code to
+  enable your own work.
+type: software
+authors:
+  - given-names: Ed
+    family-names: Bennett
+    email: e.j.bennett@swansea.ac.uk
+    affiliation: >-
+      Swansea Academy of Advanced Computing, Swansea
+      University, Fabian Way, SA1 8EN Swansea, Wales,
+      UK
+    orcid: 'https://orcid.org/0000-0002-1678-6701'
+  - given-names: Deog Ki
+    family-names: Hong
+    email: dkhong@pusan.ac.kr
+    affiliation: >-
+      Department of Physics, Pusan National
+      University, Busan 46241, Korea
+    orcid: 'https://orcid.org/0000-0002-3923-4184'
+  - given-names: Jong-Wan
+    family-names: Lee
+    email: j.w.lee@ibs.re.kr
+    affiliation: >-
+      Particle Theory and Cosmology Group,
+      Center for Theoretical Physics of the Universe,
+      Institute for Basic Science (IBS), Daejeon, 34126, Korea
+    orcid: 'https://orcid.org/0000-0002-4616-2422'
+  - given-names: C.-J. David
+    family-names: Lin
+    email: dlin@nycu.edu.tw
+    affiliation: >-
+      Center for High Energy
+      Physics, Chung-Yuan Christian University,
+      Chung-Li 32023, Taiwan
+    orcid: 'https://orcid.org/0000-0003-3743-0840'
+  - given-names: Biagio
+    family-names: Lucini
+    email: b.lucini@swansea.ac.uk
+    affiliation: >-
+      Department of Mathematics, Faculty of Science
+      and Engineering, Swansea University, Fabian
+      Way, SA1 8EN Swansea, Wales, UK and Swansea
+      Academy of Advanced Computing, Swansea
+      University, Fabian Way, SA1 8EN Swansea, Wales,
+      UK
+    orcid: 'https://orcid.org/0000-0001-8974-8266'
+  - given-names: Maurizio
+    family-names: Piai
+    email: m.piai@swansea.ac.uk
+    affiliation: >-
+      Department of Physics, Faculty of Science and
+      Engineering, Swansea University, Singleton
+      Park, SA2 8PP, Swansea, Wales, UK
+    orcid: 'https://orcid.org/0000-0002-2251-0111'
+  - given-names: Davide
+    family-names: Vadacchino
+    email: davide.vadacchino@plymouth.ac.uk
+    affiliation: >-
+      Centre for Mathematical Sciences,
+      University of Plymouth, Plymouth, PL4 8AA,
+      United Kingdom
+    orcid: 'https://orcid.org/0000-0002-5783-5602'
+identifiers:
+  - type: doi
+    value: TODO

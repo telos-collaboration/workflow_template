@@ -1,0 +1,17 @@
+text.usetex : True
+font.size : 9
+font.family : serif
+font.serif : Computer Modern Roman
+
+lines.linewidth : 0.5
+lines.markersize : 5
+lines.markeredgewidth : 0.5
+
+errorbar.capsize : 2.0
+markers.fillstyle : none
+
+axes.linewidth : 0.5
+
+legend.fontsize : small
+legend.handletextpad : 0.3
+legend.columnspacing : 0.5
