@@ -1,0 +1,18 @@
+text.usetex : True
+font.size : 9
+font.family : serif
+font.serif : Times New Roman
+text.latex.preamble : \usepackage{mathptmx} \DeclareFontFamily{U}{cal}{} \DeclareFontShape{U}{cal}{m}{n}{<->cmsy10}{} \DeclareSymbolFont{rcal}{U}{cal}{m}{n} \DeclareSymbolFontAlphabet{\mathcal}{rcal}
+
+lines.linewidth : 0.5
+lines.markersize : 5
+lines.markeredgewidth : 0.5
+
+errorbar.capsize : 2.0
+markers.fillstyle : none
+
+axes.linewidth : 0.5
+
+legend.fontsize : small
+legend.handletextpad : 0.3
+legend.columnspacing : 0.5
