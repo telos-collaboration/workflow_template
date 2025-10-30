@@ -22,7 +22,7 @@ for analysis workflows in the TELOS Collaboration.
    (If the latter,
    then it must be moved to the TELOS Collaboration organisation before publishing.)
    Push your clone to this repository.
-   
+
    ```shellsession
    git remote add origin git@github.com:telos-collaboration/new_repository_name_202X
    ```
@@ -96,6 +96,7 @@ for analysis workflows in the TELOS Collaboration.
       ```shellsession
       git rm -r external_data
       ```
+
     - If adding new Matplotlib styles,
       add them to the `styles` directory.
       (For most work,
@@ -119,7 +120,6 @@ for analysis workflows in the TELOS Collaboration.
 
 For more information,
 please see the [TELOS Collaboration Reproducibility/Open Science Strategy][strategy].
-
 
 ## Updating template changes
 
