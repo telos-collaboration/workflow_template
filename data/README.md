@@ -21,4 +21,5 @@ for example,
 This directory will not be committed as part of the repository,
 so ensure that regular backups are taken as this file is worked on during development.
 Its contents should be compressed and uploaded as part of the data release,
-with instructions in the main `README.md` on what to download and where to extract it.
+with instructions in the main `README.md` on
+what to download and where to extract it.
