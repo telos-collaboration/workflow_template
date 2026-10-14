@@ -15,3 +15,5 @@ axes.linewidth : 0.5
 legend.fontsize : small
 legend.handletextpad : 0.3
 legend.columnspacing : 0.5
+
+figure.constrained_layout.use: False

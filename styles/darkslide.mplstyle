@@ -32,3 +32,4 @@ grid.color: white
 
 figure.facecolor: black
 figure.edgecolor: black
+figure.constrained_layout.use: False
